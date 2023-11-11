@@ -31,7 +31,7 @@ body {
   border-radius: 10px;
   box-shadow: 2px 2px 100px #0e032f
   -2px -2px 100px #0a0222;
-  backdrop-filter: blur(3px);
+  backdrop-filter: blur(5px);
 }
 
 h3 {
